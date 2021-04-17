@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 
 def query(sql):
-    conn = pymysql.connect(host='129.211.85.31', user='root', password='Pfclr13366616376asd', database='fr_work')
+    conn = pymysql.connect(host='129.211.85.31', user='fr_work', password='Lr13366616376', database='fr_work')
     cur = conn.cursor()
     cur.execute(sql)
     result = cur.fetchall()
