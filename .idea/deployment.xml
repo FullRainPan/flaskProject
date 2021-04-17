@@ -5,7 +5,7 @@
       <paths name="root@129.211.85.31:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/www/fr_work" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/www/www.work.fullrainbest.com" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
